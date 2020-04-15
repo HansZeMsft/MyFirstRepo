@@ -1,3 +1,4 @@
 Some Content
 Adding a line in File
 Adding this change in the conflict branch
+Adding this change in the conflict branch
