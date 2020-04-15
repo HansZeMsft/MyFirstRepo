@@ -1,4 +1,5 @@
 Some Content
+
 Adding a line in File and
 Adding this change in the master branch
-
+Adding this change in the conflict branch
